@@ -1,10 +1,10 @@
 import React from "react"
 import ReactDOM from "react-dom"
 
-import Info from "./components/Info"
-import About from "./components/About"
-import Interest from "./components/Interest"
-import Footer from "./components/Footer"
+import Info from "./Info"
+import About from "./About"
+import Interest from "./Interest"
+import Footer from "./Footer"
 
 const page = (
     <div>
